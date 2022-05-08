@@ -1,1 +1,1 @@
-# virtualmac
+Because I wasn't able to install MacOS from the recovery partition, and because dragging and dropping the installer App into Fusion didn't work either decided to to make a quick script to generate a Mac OS install ISO to use in VMware Fusion.
